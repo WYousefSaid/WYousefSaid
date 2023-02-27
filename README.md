@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wyousefsaid" alt="wyousefsaid" /></a> </p>
 
-- 🔭 I’m currently working on [MovieDB](https://github.com/WYousefSaid/MovieDB)
+- 🔭 I’m currently working on [svelte-hackathon](https://github.com/TDanks2000/svelete-hackathon)
 
 - 🌱 I’m currently learning **Sveltekit/svelte**
 
